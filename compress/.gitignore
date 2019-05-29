@@ -1,0 +1,13 @@
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj.user
+*.aps
+.vs
+obj
+ipch
+Debug
+Release
+x64
+output
+ReadMe.txt
